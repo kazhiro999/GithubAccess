@@ -30,7 +30,7 @@ version = Version [0,1,0,0] []
 bindir, libdir, dynlibdir, datadir, libexecdir, sysconfdir :: FilePath
 
 bindir     = "/Users/kazuhirotobita/Desktop/GithubAccess/.stack-work/install/x86_64-osx/a3f61f7c91f373f2ec3434afaf4b88d35da01537941367d28c8a37e399a4bd3f/8.8.4/bin"
-libdir     = "/Users/kazuhirotobita/Desktop/GithubAccess/.stack-work/install/x86_64-osx/a3f61f7c91f373f2ec3434afaf4b88d35da01537941367d28c8a37e399a4bd3f/8.8.4/lib/x86_64-osx-ghc-8.8.4/github-get-0.1.0.0-JMhH2sTFt0IDPJ9FtiF60g-github-get-test"
+libdir     = "/Users/kazuhirotobita/Desktop/GithubAccess/.stack-work/install/x86_64-osx/a3f61f7c91f373f2ec3434afaf4b88d35da01537941367d28c8a37e399a4bd3f/8.8.4/lib/x86_64-osx-ghc-8.8.4/github-get-0.1.0.0-BJO487x2VkNe9Yzj1NxGI-github-get-test"
 dynlibdir  = "/Users/kazuhirotobita/Desktop/GithubAccess/.stack-work/install/x86_64-osx/a3f61f7c91f373f2ec3434afaf4b88d35da01537941367d28c8a37e399a4bd3f/8.8.4/lib/x86_64-osx-ghc-8.8.4"
 datadir    = "/Users/kazuhirotobita/Desktop/GithubAccess/.stack-work/install/x86_64-osx/a3f61f7c91f373f2ec3434afaf4b88d35da01537941367d28c8a37e399a4bd3f/8.8.4/share/x86_64-osx-ghc-8.8.4/github-get-0.1.0.0"
 libexecdir = "/Users/kazuhirotobita/Desktop/GithubAccess/.stack-work/install/x86_64-osx/a3f61f7c91f373f2ec3434afaf4b88d35da01537941367d28c8a37e399a4bd3f/8.8.4/libexec/x86_64-osx-ghc-8.8.4/github-get-0.1.0.0"
