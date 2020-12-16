@@ -5,7 +5,7 @@
 /Users/kazuhirotobita/Desktop/GithubAccess/github-get.cabal:
   hash: 2bb2fc746c080e60a3605a9a90af6863b46dac5cf6d3ef43b4a929677ff7d36e
 /Users/kazuhirotobita/Desktop/GithubAccess/src/GitHub.hs:
-  hash: 36f497f19dd943a7d90b6cf049d885ab000c17c4f7bc8cf4261b4c37505c3f88
+  hash: dc932b3f571b8162b937f4e29d3a664b66827b621b0c1b3e3a9197bc3a3a8f4c
 /Users/kazuhirotobita/.stack/programs/x86_64-osx/ghc-8.8.4/lib/ghc-8.8.4/include/ghcversion.h:
   hash: 297e8571427d670d413977834f5cdfc77cb89051d2f5b8302303c442346d15d0
 /Users/kazuhirotobita/Desktop/GithubAccess/README.md:
@@ -15,4 +15,4 @@
 /Users/kazuhirotobita/Desktop/GithubAccess/.stack-work/dist/x86_64-osx/Cabal-3.0.1.0/build/autogen/cabal_macros.h:
   hash: 1db0053e5b8e5ecc380655702ececf47e343bb76a53b77f6e276385fe8678107
 /Users/kazuhirotobita/Desktop/GithubAccess/src/Lib.hs:
-  hash: 0e155a691e70b62cc80f2b5a5766488658f0023895fde1df5418e7140df67732
+  hash: 2d51ee132e77a05540b8ef481d76ca8966c553199b85dd69a163f86dae4aae9b
